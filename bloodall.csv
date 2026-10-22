@@ -1,0 +1,35 @@
+itemid,label,fluid,category,valueuom,min,max,minout,maxout
+50902,Chloride(serum),Blood,Chemistry,mEq/L,50,175,0,200
+50912,Creatinine(serum),Blood,Chemistry,mg/dL,0.1,60,0,66
+50983,Sodium(serum),Blood,Chemistry,mEq/L,50,225,0,250
+51221,Hematocrit,Blood,Hematology,%,0,75,0,100
+50868,AnionGap,Blood,Chemistry,mEq/L,5,50,0,55
+50802,ArterialBaseExcess,Blood,Blood Gas,mEq/L,-20,20,-50,50
+50818,ArterialCO2Pressure,Blood,Blood Gas,mm Hg,0,200,0,220
+50885,TotalBilirubin,Blood,Chemistry,mg/dL,0.1,60,0,66
+51222,Hemoglobin,Blood,Hematology,g/dL,0,25,0,30
+51275,PTT,Blood,Hematology,sec,18.8,150,0,150
+50862,Albumin,Blood,Chemistry,g/dL,0.6,6,0,60
+50813,Lactate,Blood,Blood Gas,mmol/L,0.4,30,0,33
+51254,Monocytes,Blood,Hematology,%,0,20,0,100
+50882,Bicarbonate,Blood,Chemistry,mEq/L,0,60,0,66
+51277,RDW,Blood,Hematology,%,8,40,5,60
+51248,MCH,Blood,Hematology,pg,20,40,10,60
+51249,MCHC,Blood,Hematology,%,25,40,15,50
+51250,MCV,Blood,Hematology,fl,50,130,30,200
+51244,Lymphocytes,Blood,Hematology,%,0,80,0,100
+51256,Neutrophils,Blood,Hematology,%,0,100,0,100
+51265,Platelet Count,Blood,Hematology,K/uL,0,2000,0,2200
+51301,WBC,Blood,Hematology,K/uL,0,1000,0,1100
+51279,Red Blood Cells,Blood,Hematology,m/uL,1,8,0.1,10
+51006,Urea Nitrogen,Blood,Chemistry,mg/dL,0,250,0,275
+50893,CalciumTotal,Blood,Chemistry,mg/dL,4,20,2,30
+51200,Eosinophils,Blood,Hematology,%,0,20,0,100
+51146,Basophils,Blood,Hematology,%,0,5,0,50
+51274,PT,Blood,Hematology,sec,9.9,97.1,0,150
+50960,Magnesium,Blood,Chemistry,mg/dL,0,20,0,22
+50971,Potassium,Blood,Chemistry,mEq/L,0,12,0,15
+50878,AST,Blood,Chemistry,IU/L,0,20000,6,22000
+50861,ALT,Blood,Chemistry,IU/L,0,10000,2,11000
+50863,Alkaline Phosphatase,Blood,Chemistry,IU/L,0,3625,20,4000
+50970,Phosphate,Blood,Chemistry,mg/dL,0,20,0.5,22
